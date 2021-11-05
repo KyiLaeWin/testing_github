@@ -1,4 +1,5 @@
 
 <?php 
-echo "email"
+echo "email";
+echo "Update Email";
 ?>
